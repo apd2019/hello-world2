@@ -1,2 +1,2 @@
 # hello-world2
-test repo
+It's about my code.
